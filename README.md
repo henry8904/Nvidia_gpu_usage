@@ -45,9 +45,8 @@ python cli.py -m client --hostname <config/PERMIT_CLIENTS/hostname> --name <name
 `config.py에서 codename, name을 설정하지 않았어도 client 설정시에는 입력해주어야 작동`
 
 ## Reference
-```
 https://github.com/jacenkow/gpu-sentry
-```
+
 - 기본 템플릿과 기능 활용
 - 추가한 내용
 1. 새로고침 기능
